@@ -10,7 +10,6 @@
     <a href><img src="https://pepsi.ua/en-us/refresh082123/images/social/ig.png" height="185px"/></a>
     <a href><img src="https://pepsi.ua/en-us/refresh082123/images/social/fb.png" height="185px"/></a>
     <a href><img src="https://pepsi.ua/en-us/refresh082123/images/social/yt.png" height="185px"/></a>
-    </body>
      <header style="background-color:blue"></header>
     <table>
         <tr>
@@ -30,4 +29,6 @@
             <td></td>
             <td></td>
             <td><a href="https://www.pepsico.ua/careers" style="color:white">Кар'єра</a></td>
+        </tr>
+    </body>
 </html>
