@@ -11,23 +11,23 @@
     <a href><img src="https://pepsi.ua/en-us/refresh082123/images/social/fb.png" height="185px"/></a>
     <a href><img src="https://pepsi.ua/en-us/refresh082123/images/social/yt.png" height="185px"/></a>
      <header style="background-color:blue"></header>
-    <table style="background-color:blue">
+    <table>
         <tr>
-            <td rowspan="2"><img src="https://pepsi.ua/en-us/refresh082123/images/PepsiLogo@3x.png" height="50px"/></td>
-            <td><a href="https://www.pepsico.ua/contact" style="color:white">Зв'яжіться з нами</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="https://www.pepsico.ua/legal/privacy" style="color:white">Політика конфіденційності</a></td>
+            <td style="background-color:blue" rowspan="2"><img src="https://pepsi.ua/en-us/refresh082123/images/PepsiLogo@3x.png" height="50px"/></td>
+            <td style="background-color:blue"><a href="https://www.pepsico.ua/contact" style="color:white">Зв'яжіться з нами</a></td>
+            <td style="background-color:blue"></td>
+            <td style="background-color:blue"></td>
+            <td style="background-color:blue"></td>
+            <td style="background-color:blue"></td>
+            <td style="background-color:blue"><a href="https://www.pepsico.ua/legal/privacy" style="color:white">Політика конфіденційності</a></td>
         </tr>
         <tr>
-            <td><a href="https://www.pepsico.ua/legal/terms-of-use" style="color:white">Умови використання</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="https://www.pepsico.ua/careers" style="color:white">Кар'єра</a></td>
+            <td style="background-color:blue"><a href="https://www.pepsico.ua/legal/terms-of-use" style="color:white">Умови використання</a></td>
+            <td style="background-color:blue"></td>
+            <td style="background-color:blue"></td>
+            <td style="background-color:blue"></td>
+            <td style="background-color:blue"></td>
+            <td style="background-color:blue"><a href="https://www.pepsico.ua/careers" style="color:white">Кар'єра</a></td>
         </tr>
         </table>
     </body>
