@@ -30,5 +30,6 @@
             <td></td>
             <td><a href="https://www.pepsico.ua/careers" style="color:white">Кар'єра</a></td>
         </tr>
+        </table>
     </body>
 </html>
